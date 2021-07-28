@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   <a href="https://heroku.com"><img src="https://img.shields.io/badge/Heroku-555?logo=heroku&style=for-the-badge" alt="heroku" title="Heroku" /></a> 
   <a href="https://www.gnu.org/software/bash/" > <img src="https://img.shields.io/badge/Bash-555?logo=bash&style=for-the-badge" alt="bash" title="Bash" /></a> 
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
-  <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
   <a href="https://babeljs.io/"> <img src="https://img.shields.io/badge/Babel-555?logo=babel&style=for-the-badge" alt="babel" title="Babel" /></a>
