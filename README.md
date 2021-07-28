@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Dmitriy! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Maks! 👨‍💻</h1>
 ✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React. I have experience in backend building with NodeJS.
 👷🏼‍♂️ I participated in projects in different roles - as a full stack developer and also as a team lead. Moreover, I have commercial experience as a Project Manager in a digital agency.
 🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
