@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 🌱 Currently, I am interested in learning other JavaScript frameworks. Curious about upgrade courses and internships. 
 
 🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
+
+🔜 React Native, TypeScript
 <h2 align="left">Connect with me:</h2>
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
