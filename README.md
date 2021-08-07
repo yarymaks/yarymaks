@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 🔜 React Native, TypeScript
 <h2 align="left">Connect with me:</h2>
-<!-- <p align="left">
-<a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
-<a href="https://t.me/skyup"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
-<a href="https://twitter.com/tara_kot"><img src="https://img.shields.io/badge/twitter-555?logo=twitter&style=for-the-badge" alt="twitter" title="Twitter" />
-<a href="https://www.instagram.com/salamifuet/"><img src="https://img.shields.io/badge/instagram-555?logo=instagram&style=for-the-badge" alt="instagram" title="Instagram" /></a>
-</p> -->
+<p align="left">
+<a href="https://www.linkedin.com/in/yarymaks/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a href="https://t.me/yarymaks"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
+<a href="https://twitter.com/yarymaks"><img src="https://img.shields.io/badge/twitter-555?logo=twitter&style=for-the-badge" alt="twitter" title="Twitter" />
+<a href="https://www.instagram.com/m.yaryhin/"><img src="https://img.shields.io/badge/instagram-555?logo=instagram&style=for-the-badge" alt="instagram" title="Instagram" /></a>
+</p>
+
 <h2 align="left">My stack:</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
